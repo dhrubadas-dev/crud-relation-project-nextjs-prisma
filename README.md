@@ -1,0 +1,1 @@
+# crud-relation-project-nextjs-prisma
